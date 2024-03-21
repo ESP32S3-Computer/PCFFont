@@ -6,5 +6,5 @@ cmake_minimum_required(VERSION 3.16)
 
 idf_component_register(SRCS "src/PCFFont.c"
                     INCLUDE_DIRS "include"
-                    EMBED_FILES "unifont-15.1.04.pcf"
+                    EMBED_FILES "unifont-15.1.04-p1L.pcf"
                     )

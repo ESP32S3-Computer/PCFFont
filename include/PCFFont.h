@@ -20,5 +20,5 @@
 #define PCF_BIT_MASK           (1<<3)            /* If set then Most Sig Bit First */
 #define PCF_SCAN_UNIT_MASK     (3<<4)            /* See the bitmap table for explanation */
 
-extern const uint8_t pcf_start[]  asm("_binary_unifont_15_1_04_pcf_start");
-extern const uint8_t pcf_end[]    asm("_binary_unifont_15_1_04_pcf_end");
+extern const uint8_t pcf_start[]  asm("_binary_unifont_15_1_04_p1L_pcf_start");
+extern const uint8_t pcf_end[]    asm("_binary_unifont_15_1_04_p1L_pcf_end");
